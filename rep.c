@@ -1,4 +1,9 @@
 
+/* An array has n elements, where n is the size of the array, the programs tells whether
+   the array has repeating elements or not.
+   Note:the numbers in the array should be lesser than n.
+   */
+
 
 #include<stdio.h>
 
@@ -14,7 +19,7 @@ void input(int a[], int n)
 {
 	int i;
 	for(i=0;i<n;i++)
-		scanf("%d",&n);
+		scanf("%d",&a[i]);
 }
 
 int main()
