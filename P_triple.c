@@ -1,3 +1,7 @@
+/* An array consists of n integers, where n is the size of the array, the program gives
+   the pythogorian triple present in the array */
+
+
 #include<stdio.h>
 #include<math.h>
 
