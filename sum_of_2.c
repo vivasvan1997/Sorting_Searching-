@@ -1,3 +1,8 @@
+/* An array consists of n elements, where n is the size of the array, the program finds
+   two numbers, say a and b such that their sum is equal to k i.e a+b=k  */
+
+
+
 #include<stdio.h>
 
 
@@ -48,7 +53,7 @@ void input(int a[], int n)
 {
 	int i;
 	for(i=0;i<n;i++)
-		scanf("%d",&n);
+		scanf("%d",&a[i]);
 }
 
 
