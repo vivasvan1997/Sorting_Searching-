@@ -1,3 +1,8 @@
+
+/* An array consists of n numbers, the program gives the number, that repeats odd
+   number of times */
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #define max 100
@@ -11,7 +16,7 @@ void input(int a[], int n)
 
 int main()
 {
-        int i,n,a[max],temp;
+        int i,n,a[max],temp=0;
     	FILE *fp;
     	fp=freopen("read.txt","r",stdin);
     	scanf("%d",&n);
