@@ -1,4 +1,6 @@
 
+/* The numbers from 1 to n are entered in an array(without any repetations) of size n-2, the program
+   will give the two missing numbers  */
 
 
 
