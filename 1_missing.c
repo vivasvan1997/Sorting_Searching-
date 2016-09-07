@@ -1,6 +1,6 @@
 
 /* The numbers from 1 to n are entered in an array(without any repetations) of size n-1, the program
-   will give the missing number as the output */
+   will give the missing number  */
 
 #include<stdio.h>
 
